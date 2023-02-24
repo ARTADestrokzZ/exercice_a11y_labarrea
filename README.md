@@ -31,24 +31,20 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------
------
------
+Les alternatives sont bien faits, par contre je metterais plus de précision comme la couleur par exemple. 
+
 [capture-écran]()
 - https://amzn.to/2NnbKPN 
------
------
------
+Je rajouterais plus de textes alternatifs pour une meilleure compréhension. 
+
 [capture-écran]()
 - https://www.lesoleil.com/  
------
------
------
+Pas grand chose à améliorer sur ce site.
+
 [capture-écran]()
 - https://www.rad.ca/  
------
------
------
+Rajouter des alt car il n'y en a pas.
+
 [capture-écran]()
 
 Astuce  
